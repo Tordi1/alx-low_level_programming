@@ -1,4 +1,4 @@
-#incude "main.h"
+#include "main.h"
 
 /**
  * reset_to_98 - function but takes a pointer to an int as parameter and updates that value it points to 98
