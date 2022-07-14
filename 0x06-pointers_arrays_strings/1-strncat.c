@@ -1,4 +1,4 @@
-#include "holberton"
+#include "holberton.h"
 
 /**
  * _strncat - concatenates two strings
