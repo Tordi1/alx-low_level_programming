@@ -1,11 +1,9 @@
 #include "holberton.h"
-#include "stdio.h"
 /**
- * _strncat - concatenates two strings
- * @dest: The destination value
- * @src: The source value
- * @n The limit of the concatenation
- *
+ * _strncat - concatenates two strings but add inputted number of bytes
+ * @dest: string to be appended upon
+ * @src: string to be completed at the endof dex
+ * @n: integers parameters to compare index to
  * Return: A pointer to the resulting string dest
  */
 char *_strncat(char *dest, char *src, int n)
