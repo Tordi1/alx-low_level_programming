@@ -1,6 +1,7 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
- * leet - -encodes a string into 1337
+ * leet - Encodes a string into 1337
  * @s: Thestring to encode
  *
  * Return: The encoded string
